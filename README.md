@@ -8,4 +8,4 @@ App is not deployed to cloud anywhere. Please feel free to fork or clone repo fo
 
 ## Submission
 
-PR: [working-branch #1](http.cats)
+PR: [working-branch #1](https://github.com/jstreifel-33/snacks-tracker/pull/1)
